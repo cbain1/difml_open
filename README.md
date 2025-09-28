@@ -120,4 +120,3 @@ For each condition:
 ## Supplementary Materials (Optional)
 
 - A copy of supplementary materials also submitted directly to the journal. 
-- Example plots (ROC curves, test information functions, variable importance distributions).  
