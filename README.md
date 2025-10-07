@@ -2,7 +2,7 @@
 
 This repository contains the simulation code and design files for the manuscript:  
 
-> *[Insert manuscript title here]*  
+> *When DIF Goes Undetected: Comparing the Diagnostic Accuracy of IRT and Random Forest Classification*  
 
 The study investigates the impact of **Differential Item Functioning (DIF)** on test information and diagnostic classification, comparing **Item Response Theory (IRT)** and **Random Forest (RF)** approaches.
 
